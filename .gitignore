@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+
+/checkpoint
+
+/Data
+
+/t_giver
+
+
+**/__pycache__/
+
+*.gif
